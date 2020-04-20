@@ -1,0 +1,22 @@
+.block{
+    display: grid;
+    grid-template-columns: 300px;
+    gap: 5px;
+}
+.block_line{
+    background-color: #cccaca;
+    border-radius: 5px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+.block_line_selected{
+    background-color: #929191;
+    border-radius: 5px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+.block_line:hover{
+    background-color: #88b7ff;
+    border-radius: 5px;
+    padding-left: 20px;
+}

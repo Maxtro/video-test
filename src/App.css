@@ -1,0 +1,11 @@
+.App {
+  display: grid;
+  grid-template-columns: 550px 550px; 
+  gap: 20px;
+  justify-content: center;
+  padding: 10px;
+}
+
+.block{
+  position: relative;
+}
