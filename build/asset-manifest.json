@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/video-test/build/static/css/main.b33be5cc.chunk.css",
-    "main.js": "/video-test/build/static/js/main.9e0603b8.chunk.js",
-    "main.js.map": "/video-test/build/static/js/main.9e0603b8.chunk.js.map",
+    "main.js": "/video-test/build/static/js/main.41572021.chunk.js",
+    "main.js.map": "/video-test/build/static/js/main.41572021.chunk.js.map",
     "runtime-main.js": "/video-test/build/static/js/runtime-main.a48fd75a.js",
     "runtime-main.js.map": "/video-test/build/static/js/runtime-main.a48fd75a.js.map",
     "static/js/2.9823a3ee.chunk.js": "/video-test/build/static/js/2.9823a3ee.chunk.js",
     "static/js/2.9823a3ee.chunk.js.map": "/video-test/build/static/js/2.9823a3ee.chunk.js.map",
     "index.html": "/video-test/build/index.html",
-    "precache-manifest.a3c0df099edfcc1cc6f1b80c32488df7.js": "/video-test/build/precache-manifest.a3c0df099edfcc1cc6f1b80c32488df7.js",
+    "precache-manifest.63f5d3498d21dfd8f49d7e8474174f58.js": "/video-test/build/precache-manifest.63f5d3498d21dfd8f49d7e8474174f58.js",
     "service-worker.js": "/video-test/build/service-worker.js",
     "static/css/main.b33be5cc.chunk.css.map": "/video-test/build/static/css/main.b33be5cc.chunk.css.map",
     "static/js/2.9823a3ee.chunk.js.LICENSE.txt": "/video-test/build/static/js/2.9823a3ee.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a48fd75a.js",
     "static/js/2.9823a3ee.chunk.js",
     "static/css/main.b33be5cc.chunk.css",
-    "static/js/main.9e0603b8.chunk.js"
+    "static/js/main.41572021.chunk.js"
   ]
 }
